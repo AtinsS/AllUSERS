@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "firstname": "Алексей",
+    "lastname": "Иванов",
+    "email": "alex.ivanov@example.com",
+    "avatar": "https://i.pravatar.cc/150?img=11",
+    "role": "frontend",
+    "createdAt": "2024.01.10 12:00"
+  },
+  {
+    "id": 2,
+    "firstname": "Мария",
+    "lastname": "Петрова",
+    "email": "maria.p@example.com",
+    "avatar": "https://i.pravatar.cc/150?img=5",
+    "role": "designer",
+    "createdAt": "2024.02.14 14:30"
+  },
+  {
+    "id": 3,
+    "firstname": "Дмитрий",
+    "lastname": "Сидоров",
+    "email": "d.sidorov@example.com",
+    "avatar": "https://i.pravatar.cc/150?img=3",
+    "role": "backend",
+    "createdAt": "2023.11.20 11:00"
+  },
+  {
+    "id": 4,
+    "firstname": "Елена",
+    "lastname": "Козлова",
+    "email": "elena.koz@example.com",
+    "avatar": "https://i.pravatar.cc/150?img=9",
+    "role": "qa",
+    "createdAt": "2024.03.05 16:45"
+  },
+  {
+    "id": 5,
+    "firstname": "Игорь",
+    "lastname": "Волков",
+    "email": "igor.volkov@example.com",
+    "avatar": "https://i.pravatar.cc/150?img=12",
+    "role": "devops",
+    "createdAt": "2023.12.01 08:20"
+  },
+  {
+    "id": 6,
+    "firstname": "Анна",
+    "lastname": "Смирнова",
+    "email": "anna.smirnova@example.com",
+    "avatar": "https://i.pravatar.cc/150?img=25",
+    "role": "product",
+    "createdAt": "2024.04.12 10:00"
+  },
+  {
+    "id": 7,
+    "firstname": "Павел",
+    "lastname": "Морозов",
+    "email": "pavel.moroz@example.com",
+    "avatar": "https://i.pravatar.cc/150?img=33",
+    "role": "fullstack",
+    "createdAt": "2023.09.18 13:10"
+  },
+  {
+    "id": 8,
+    "firstname": "Ольга",
+    "lastname": "Новикова",
+    "email": "olga.nov@example.com",
+    "avatar": "https://i.pravatar.cc/150?img=41",
+    "role": "data",
+    "createdAt": "2024.01.22 15:30"
+  },
+  {
+    "id": 9,
+    "firstname": "Сергей",
+    "lastname": "Лебедев",
+    "email": "sergey.lebedev@example.com",
+    "avatar": "https://i.pravatar.cc/150?img=52",
+    "role": "security",
+    "createdAt": "2023.10.30 07:50"
+  },
+  {
+    "id": 10,
+    "firstname": "Виктория",
+    "lastname": "Кузнецова",
+    "email": "vika.k@example.com",
+    "avatar": "https://i.pravatar.cc/150?img=60",
+    "role": "manager",
+    "createdAt": "2024.05.01 12:00"
+  }
+]
